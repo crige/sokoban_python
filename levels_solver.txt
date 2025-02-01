@@ -1,0 +1,368 @@
+Level 1 | RlUUdLLrdD
+   ###
+   #.#
+#### #
+#. $$###
+### @$.#
+  #$####
+  #.#
+  ###
+
+Level 2 | DRdRRUrDllluRRlllldRRRdrUrUdlluR
+ #######
+##@##..#
+# $$ $.#
+#   $  #
+####  .#
+   #####
+
+Level 3 | ldRddrrdrrUUluUruLdddrUUddddllulluuRRllddrrdrruulUU
+   #####
+####...#
+# @##$ #
+# $    #
+## ##  #
+##   #$#
+ ###   #
+   #####
+
+Level 4 | rDDDlddlluuRRUruulDDDllddrUluRluRR
+  ####
+  #@ #
+### $#
+# $$.##
+# $.. #
+# $.. #
+#   ###
+#####
+
+Level 5 | urRuulDrrrddLUruL
+ ####
+ #  #
+##  ###
+# $.  #
+# .$  #
+#@ .$ #
+###  ##
+  ####
+
+Level 6 | ullDDLLururrrddLLrrddlUruuullddLdRuuurrddLLdlUruLLrdrrrdLL
+    ####
+  ##   #
+###    #
+#.  $#@#
+#..$ $ #
+###. $ #
+  ###  #
+    ####
+
+Level 7 | DDldlddrUrUruLdrrddlUluuuulldRurDurD
+#######
+#  @  #
+# $$$ #
+##...##
+# . . #
+# $ $ #
+#  #  #
+#######
+
+
+Level 8 | llullddRUrrruLdllluuRDuurrDDrdLuLUlldRlddrUddrrUULUdrruLdlDlluRluurDDldR
+ #####
+## . #
+# $.$##
+#  .$ #
+# $. @#
+# $.$##
+## . #
+# ####
+
+Level 9 | dlluLdlluUUrurrdLLrDDLrrdrruLLdLLrUUUrurrdLLLruLdrDurDDLLrrrdLLL
+########
+#..    #
+#..$ $ #
+#$#$$$##
+#..$ $@#
+#..    #
+########
+
+
+Level 10 | uLLLLulDDRurrrruullDurrddlLLLdlUrrrrrdddllULrULLurRuurrddLLLdlU
+   #####
+####   #
+#..#$# #
+#    $ #
+#.$  #@#
+#..$$# #
+####   #
+   #####
+
+Level 11 | DuRlLUluRRRDrDDLdLLUUrDuRllUdrruulLddrU
+#######
+#. . .#
+# $$$ #
+#.$@$.#
+# $$$ #
+#. . .#
+#######
+
+以下没改
+Level: level-01 | RurrdLrdddlDLdllUUdRRRuruuulLLrdRD
+
+  #####
+###   #
+#.@$  #
+### $.#
+#.##$ #
+# # . ##
+#$ *$$.#
+#   .  #
+########
+
+Level: level-02 |
+
+    #####
+    #   #
+    #$  #
+  ###  $###
+  #  $  $ #
+### # ### #     ######
+#   # ### #######  ..#
+# $  $             ..#
+##### #### #@####  ..#
+    #      ###  ######
+    ########
+
+Level: level-03 |
+
+############
+#..  #     ###
+#..  # $  $  #
+#..  #$####  #
+#..    @ ##  #
+#..  # #  $ ##
+###### ##$ $ #
+  # $  $ $ $ #
+  #    #     #
+  ############
+
+Level: level-04 |
+
+####
+#  #########
+#    ##    #
+# $$$#     #
+##...# #$$$#
+ #...# #...#
+ #$$$  #...##
+ #    ##$$$ #
+ ####### @  #
+       ######
+
+Level: level-05 |
+
+ #########
+ #   *   #
+ # ## ## #
+ #  * *  #
+###  #  ###
+#  .$#$.  #
+# #  @  # #
+#  .$#$.  #
+###  #  ###
+  #######
+
+Level: test-01 | rUUruLddRdrUU
+
+######
+#.  .#
+#    #
+# $$ #
+#@   #
+######
+
+
+Level: test-02 | UUddrrrUU
+
+######
+#.  .#
+#    #
+#$  $#
+#@   #
+######
+
+Level: test-03 | LrdrdddLdllUUdRRurD
+
+ ######
+#.$@  #
+###   #
+#.##  #
+# #   ##
+#$ *$  #
+#   .  #
+########
+
+Level: test-04 | llldRRR
+
+##########
+#    @   #
+#  $  .  #
+#        #
+##########
+
+Level: test-05 | uluRdrUUULuRdddlUULdlU
+
+###########
+#         #
+#         #
+#  . . .  #
+#    $    #
+#    $    #
+#    $    #
+#         #
+#    @    #
+#         #
+###########
+
+
+Level: test-06 | dlluRdrUUUddrruuulL
+
+#######
+# .   #
+# # # #
+# # # #
+# $@  #
+#     #
+#######
+
+Level: test-07 | LUUUluRddddLdlUUUUluR
+
+########
+#  . . #
+#    # #
+## # # #
+ #  $  #
+ #  $@ #
+ #     #
+ #######
+
+
+Level: test-08 | llDDDDDDldddrruuLuuuuuuurrdLulDDDDDDlllddrrUdlluurRdddrruuLUUUUUUluRdddddddrddlluUdlluurRdrUUUUUU
+
+  ######
+  # ..@#
+  # $$ #
+  ## ###
+   # #
+   # #
+#### #
+#    ##
+# #   #
+#   # #
+###   #
+  #####
+
+
+Level: test-09 | dllURdrU
+
+####
+#  ####
+# . . #
+# $$*@#
+##    #
+ ######
+
+
+Level: test-10 |
+
+####
+# .#
+#  ###
+#*@  #
+#  $ #
+#  ###
+####
+
+
+Level: test-11 | rrdL
+
+#####
+#@  ##
+#.$* #
+#  # #
+#    #
+######
+
+
+Level: test-12 | rrDulldRRurDrddllURuulD
+
+######
+#@   ##
+# $$  #
+# #. .#
+#     #
+#######
+
+
+Level: test-13 | drrdrruLLulldRururDDrddlluUrrdL
+
+  ####
+###  #
+#@ .$##
+#   $ #
+# #.  #
+#     #
+#######
+
+
+Level: test-14 | L
+
+########
+#      #
+# .**$@#
+#      #
+#####  #
+   ####
+
+
+Level: test-15 |
+
+######
+#   @#
+# .  #
+#    #
+#  $ #
+#    #
+######
+
+
+Level: test-16 |
+
+###############
+#   #  ########
+#...$$ ########
+#...#        ##
+#...#$###### ##
+#...#      # ##
+##### $ $# #  #
+##### $ $ $ # #
+#####  # $  @ #
+##### $$ $#####
+#####     #####
+###############
+
+
+Level: test-17 |
+
+###############
+#   #  ########
+#.. $  ########
+#   #        ##
+#   #$###### ##
+#   #      # ##
+#####    # #  #
+#####       # #
+#####  #    @ #
+#####     #####
+#####     #####
+###############
