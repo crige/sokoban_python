@@ -152,8 +152,12 @@ class Game:
                 sys.stdout.flush()
             sys.stdout.write('\n')
 
-    def get_content(self,x,y):
-        return self.matrix[y][x]
+    def get_content(self, x, y):
+        if 0 <= y < len(self.matrix) and 0 <= x < len(self.matrix[y]):
+            return self.matrix[y][x]
+        else:
+            print(f"Index out of range: ({x}, {y})")  # 调试信息
+            return None  # 或者返回一个默认值
 
     def set_content(self,x,y,content):
         if self.is_valid_value(content):
@@ -168,10 +172,11 @@ class Game:
         for row in self.matrix:
             for pos in row:
                 if pos == '@' or pos == '+':
+                    print(f"Worker found at: ({x}, {y})")  # 调试信息
                     return (x, y, pos)
                 else:
-                    x = x + 1
-            y = y + 1
+                    x += 1
+            y += 1
             x = 0
 
     def can_move(self,x,y):
